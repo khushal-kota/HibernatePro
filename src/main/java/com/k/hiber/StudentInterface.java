@@ -246,7 +246,7 @@ public class StudentInterface {
     }
 
     private void printStudentDetails(Student student) {
-    	System.out.println("Hi git Hub");
+    	System.out.println("Hi git Hub and pull the code to local repo!!");
         System.out.println("ID: " + student.getId() + ", Name: " + student.getName() + ", Gender: " + student.getGender() +
                 ", Department: " + student.getDepartment() + ", Program: " + student.getProgram() +
                 ", Date of Birth: " + student.getDob() + ", Contact Number: " + student.getContact() +
